@@ -48,7 +48,7 @@
             android:text="Data"
 
 
-            android:textColor="#4CAF50"
+            android:textColor="#6CE2F1"
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -94,7 +94,7 @@
             android:fontFamily="@font/l"
             android:gravity="center"
             android:text="precautions"
-            android:textColor="#4CAF50"
+            android:textColor="#009688"
             android:textSize="20dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"

@@ -24,6 +24,7 @@ import com.bumptech.glide.Glide;
 import com.example.potatodiseasetracker.ml.TfliteModel;
 import com.example.potatodiseasetracker.ml.TfliteModel1;
 import com.example.potatodiseasetracker.ml.TfliteModel2;
+import com.example.potatodiseasetracker.ml.TfliteModel3;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 import org.tensorflow.lite.DataType;
