@@ -1,31 +1,25 @@
-# Potato Disease Tracking App
+# Potato Disease Tracking Android App
 
-Welcome to the Potato Disease Tracking App! This Android application allows users to click or upload an image of a potato crop and uses a TensorFlow model to predict the disease affecting the crop. It also provides precautions and recommendations for each identified disease.
+Welcome to the Potato Disease Tracking Android App! This app allows users to click or upload an image of a potato crop, which is then analyzed using a TensorFlow model to predict the disease affecting the crop. Additionally, the app provides precautions and measures to tackle the detected disease.
 
 ## Features
 
-- Capture or upload an image of potato crops.
-- Predicts the disease using a TensorFlow model.
-- Provides detailed precautions and recommendations for each disease.
-- User-friendly interface made with Android Studio.
+- **Image Capture**: Take a picture of the potato crop directly from the app.
+- **Image Upload**: Upload an existing image of the potato crop from your device.
+- **Disease Prediction**: Utilizes a custom TensorFlow model to predict the disease affecting the potato crop.
+- **Precautionary Measures**: Provides detailed precautions and steps to manage the detected disease.
 
-## Demo
 
-![App Demo](demo.gif)
+## Installation
 
-## Getting Started
+To get started with the app, follow these steps:
 
-### Prerequisites
-
-- Android Studio
-- Android device or emulator
-
-### Installation
-
-1.Clone the Repository:
-   ```bash
-   git clone https://github.com/EMPER0R7/Potato_Disease_Tracker1.git
+1. **Clone the Repository**:
+    ```bash
+    git clone https://github.com/EMPER0R7/Potato_Disease_Tracker1.git
+    
     ```
+
 2. **Open in Android Studio**:
     - Open Android Studio.
     - Select `Open an existing Android Studio project`.
@@ -48,6 +42,19 @@ You can directly download the APK file from the link below:
 3. **Analyze**: The app will use the TensorFlow model to analyze the image and predict the disease.
 4. **View Results**: See the predicted disease and read the recommended precautions to manage it.
 
+## TensorFlow Model
+
+The app uses a TensorFlow model trained specifically to identify various diseases affecting potato crops. The model is integrated into the app to provide real-time disease detection.
+
+
+
+## Contact
+
+For any inquiries or support, please contact:
+- **Aditya Kurne**: adityakurne13@gmail.com
+  
+
 ---
 
 Thank you for using the Potato Disease Tracking Android App!
+
