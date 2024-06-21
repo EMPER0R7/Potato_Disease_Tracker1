@@ -22,11 +22,10 @@ Welcome to the Potato Disease Tracking App! This Android application allows user
 
 ### Installation
 
-1.**Clone the Repository**:
-
-   ```sh
+1.Clone the Repository:
+   ```bash
    git clone https://github.com/EMPER0R7/Potato_Disease_Tracker1.git
-
+    ```
 2. **Open in Android Studio**:
     - Open Android Studio.
     - Select `Open an existing Android Studio project`.
@@ -40,7 +39,7 @@ Welcome to the Potato Disease Tracking App! This Android application allows user
 
 You can directly download the APK file from the link below:
 
-[Download Potato Disease Tracking App](https://drive.google.com/drive/folders/your-drive-link-here)
+[Download Potato Disease Tracking App](https://drive.google.com/file/d/1jUKwmhA41DWtSX0j7PE10PK74JPhIxQY/view?usp=sharing)
 
 ## Usage
 
